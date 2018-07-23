@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/cardView_videoList"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        card_view:cardCornerRadius="2dp"
+        card_view:cardElevation="0dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/cw_video_image_view"
+                android:layout_width="150dp"
+                android:layout_height="100dp"
+                android:layout_alignParentStart="true"
+                android:contentDescription="video"
+                android:src="@color/cardview_dark_background"
+                android:scaleType="centerCrop"
+                android:adjustViewBounds="true"
+                />
+            <TextView
+                android:id="@+id/cw_playlist_video_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/cw_video_image_view"
+                android:textSize="13sp"
+                android:textColor="@android:color/black"
+                tools:text="name"
+                android:layout_centerInParent="true"
+                android:layout_marginStart="10dp"
+                android:paddingRight="30dp"
+                android:paddingEnd="30dp"
+                />
+            <android.support.v7.widget.AppCompatCheckBox
+                android:id="@+id/checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerInParent="true"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</RelativeLayout>

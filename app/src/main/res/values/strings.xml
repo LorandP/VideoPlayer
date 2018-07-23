@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Media</string>
+    <string name="title_play_list">Play Lists</string>
+    <string name="title_create_playlist">Create PlayList</string>
+    <string name="title_save">Save</string>
+    <string name="create_playlist">Create playlist</string>
+    <string name="list_of_playlists">List of playlist\'s</string>
+    <string name="openDrawer">Drawer open</string>
+    <string name="closeDrawer">Drawer closed</string>
+    <string name="email">lorand.palfalvi@thearktech.eu</string>
+    <string name="name">Palfalvi Lorand</string>
+    <string name="all_videos">All videos</string>
+    <string name="test">List of videos</string>
+    <string name="remove">Remove</string>
+    <string name="add_to_playlist">Add to playlist</string>
+    <string name="share">Share</string>
+</resources>

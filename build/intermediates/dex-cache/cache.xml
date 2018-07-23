@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.0.0/d88059003509074dd59fa226c822724bcf5ec0ca/disklrucache-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d88059003509074dd59fa226c822724bcf5ec0ca">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/disklrucache-4.0.0_490ab25c901ddb2d10b1ff7ba399dff5528a5e16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/2e00198966ce603c9f2574dceb5847608123999d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af7033d1889f6d98ba978a9e26d9ae8d3333c4da">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0b02c1e6dd7f8b8ac7d5528279e6db879191ed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/26ba93b8f8d4bdcda97a03d28ff6c22c6cbac313/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2f6369061e3e8cde1528618dfdff8105e1742bf5">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_131d1f4b568dcb1459badf0820299d2e43e9c788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/93917b3c6c8557f848be2b424f5cc59f36d2460d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_10630262544f5f01c04726d1e279668205ec8fd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/ecfda9e7396515a9bd5b4c543f26fee867c824e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="35f961fae9306ee1f783eaf052f25c37dfc48a8a">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb958e428aec1484e8c32fbb06c08fb93faa0f9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/cc3daaeb582106c2faae17419b1833024681168f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc987989a5b6a23cc00d436f97cbf82e644c739d">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b13cc578a982bcc1174f6893a3e30d1354984f3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/c26bccaeae923d258b6bb6a660a23177cbff8440/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e17717960208be0f6a341ac4fbfba150516a176f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_3ae14ce9b757feccf50494dd32a0edace6901d1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/28b570578aa882f69c07d82fdbdab59233eb8964/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8532464ea91a3446701167d0ac6942a360c4437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/8c00b88de3d2986c7d73ea812dff57b17191d885/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="52f4541e66a53c22179655d7e9c6fccf12cba86a">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e5d30002d99953d92c1e7262c8e5a0f43de5ab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a2ca486dff7707721706b6ccba2cdf76518110a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/8406fca49db55632f62953b916fd5daa5b5fdce5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_040e8b216b7bdbf25775d088cdbd06f6a6b1baa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/149918882263aa342b4addaee8e704dba0418262/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24e7a7d7df5771fc61b6fd5cd18e055709d6dd1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/244ffcc2c577ea0cc59472b181c47be5ab9a20a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_54ae93327299d59ac89713e09132f37f99817374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/66b3b46e9bf36e3a17309f2f5583c90ec24c22c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d30fea97b615470b068d444e58e26a6fa22ca8de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/35e43845033e3defa2c0710ede47161464f4cc8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_248e8799d808991e595b8bfceac0a53160d39be2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.gradle/caches/modules-2/files-2.1/android.arch.persistence.room/common/1.0.0-alpha5/da7c4f373e9a9e114fc3a12edcbb7bd7f8822b4b/common-1.0.0-alpha5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da7c4f373e9a9e114fc3a12edcbb7bd7f8822b4b">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0-alpha5_66a96adda2ad1e9b7558a8b5244455f8a6ee61a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/dcb76a5ab1a968b6cbafba83b0d93b55525d6180/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34920bd17fddebf798502311dd25773a486f8e5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/791d2f9a9183f4df5b604b566b63b95154ad28b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cfc67519fb914bc50f2434bad36ed2001412777a">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fab0b7acc9e8d176ceab71de5243aa2599aaadc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="23567bb2fb8da8dabab0bb42fdd0406ff7c1526f">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8693bf239727b94db42a6344272533bf9627bd42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/5e1dfc566b8c9e7932870ca74ccacbcbd3ea1447/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="31abcff1d93243e1d25afda575266ca6219fadd1">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66c57543ac92c65748aee2ce9423f2637bd9c3a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/86b690130937a9c3b753003daba78be50cbf58bc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3d94309b52b6c71fb1b20572dad30c02fab3c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/c5f05f07efbefc8bf6bfb06d94968102c22ef092/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="73b599658b6d04643cc81d810fe7a6a96e4b2b5b">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_423c971289d62f70e7800b626c4d6f31209b7e21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.0.0/47c487cc4e64e6ab127a517669ca9a7b49f8c61d/gifdecoder-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47c487cc4e64e6ab127a517669ca9a7b49f8c61d">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/gifdecoder-4.0.0_7bc53a8340badd25f44b6bbe05452f45ab556e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.0.0/f80192e6fd828d41c7da6f3552b0bef5d89cb26e/annotations-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f80192e6fd828d41c7da6f3552b0bef5d89cb26e">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-4.0.0_89b2209463e45d984b7ba1f662f4d0f721952aac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/8807ebad03e149ab74bf6a51f2ac9eb81b929894/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a22d14a4ee12a1fc2e765eb280d94ea73efa630">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75f2a29a6222011be5f7201250791a28cfe82c47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/e267a1b7cb7b02a4f5cff08d2129018bd9d4dd67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7253be770aeb9ab3b0afddcb1258524386d4a3f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/53eaabf0f04df56c9a5c99d18af8e8664109b449/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebc730e4c440de5fbbe7134f78259e8e7bf56273/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/f502c9d0b036167686c980f137d865ec77e95b7b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4a5e04ab82f5d81ebb9723bf01b8490ac8a4a47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/9e3df4394f575d4cb551e5823c8adf7920569e17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22b1287bdb7d06079561a4f8d1c82e8ae5bf5ff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.android/build-cache/30d13147e79d0c1462046e1896e6dd62c1e16947/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_943dc54e6f7a5f848ccbf326a2c99905542d47d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.0.0/dff931af436f0a2815d0109ab2258bbce2d6275d/glide-4.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dff931af436f0a2815d0109ab2258bbce2d6275d">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-4.0.0_d163537c51cb90fe7cd15707770669a2312b9843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lorand/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0-alpha5/ef1ec521c95486fb256b3677a95c340ce9c49407/common-1.0.0-alpha5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ef1ec521c95486fb256b3677a95c340ce9c49407">
+        <dex dex="/Users/lorand/AndroidStudioProjects/MediaPlayerArk/MediaPlayer/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0-alpha5_2612f86d1a4ffcf2e7868295cff2ce05f85c0627/classes.dex" />
+    </item>
+
+</items>

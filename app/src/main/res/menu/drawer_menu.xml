@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/first_page"
+            android:checked="false"
+            android:title="@string/all_videos"
+            android:icon="@drawable/all_videos"
+            android:actionLayout="@layout/layout_menu"
+            />
+        <item
+            android:id="@+id/playlists"
+            android:checked="false"
+            android:title="@string/list_of_playlists"
+            android:icon="@drawable/playlist"
+            />
+        <item
+            android:id="@+id/create_playlist"
+            android:checked="false"
+            android:title="@string/create_playlist"
+            android:icon="@drawable/create_playlist"
+            />
+    </group>
+</menu>

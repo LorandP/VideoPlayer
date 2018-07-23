@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/remove"
+        android:orderInCategory="100"
+        android:title="@string/remove" />
+    <item
+        android:id="@+id/add_to_playlst"
+        android:orderInCategory="101"
+        android:title="@string/add_to_playlist" />
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="102"
+        android:title="@string/share" />
+</menu>

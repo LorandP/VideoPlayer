@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_play_lists"
+        android:title="@string/title_play_list" />
+
+    <item
+        android:id="@+id/navigation_create_play_list"
+        android:title="@string/title_create_playlist" />
+</menu>
